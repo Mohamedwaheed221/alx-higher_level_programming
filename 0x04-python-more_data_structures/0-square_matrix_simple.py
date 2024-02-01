@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 def square_matrix_simple(matrix=[]):
     
     result_matrix = [[0] * len(matrix[0]) for _ in range(len(matrix))]
